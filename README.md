@@ -3,7 +3,7 @@
 
 
 <a href="https://stackoverflow.com/users/14906598/trynfulf"><img src="https://stackoverflow.com/users/flair/14906598.png?theme=dark" width="208" height="58" alt="profile for trynfulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trynfulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-![Project Euler account badge](https://projecteuler.net/profile/skirtyman-.png "Account badge")
+[![Project Euler account badge](https://projecteuler.net/profile/skirtyman-.png "Account badge")](https://projecteuler.net/profile/skirtyman.png)
 <!--
 **trynfulf/trynfulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
