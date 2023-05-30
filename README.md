@@ -2,6 +2,7 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/8eec35f3-fd84-49c8-835b-b417c4509a9a.svg)](https://wakatime.com/@8eec35f3-fd84-49c8-835b-b417c4509a9a)
+
 <a href="https://stackoverflow.com/users/14906598/trynfulf"><img src="https://stackoverflow.com/users/flair/14906598.png" width="208" height="58" alt="profile for trynfulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trynfulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ![image](https://user-images.githubusercontent.com/76261952/236865536-1e44893b-362c-4660-85c7-5ff1f295bc94.png)
 
