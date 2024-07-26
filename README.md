@@ -7,9 +7,9 @@
 
 I am Andreas J. Mullen, an undergraduate student reading Computer Science and wanting to specialise in compiler theory.
 
-All of my projects and their respective repositories are listed in the tables below. This also includes projects that I have been apart of. The projects I am currently working on are marked with an asterisk (*), links to the corresponding repository are also provided where possible. 
+My work (and projects that I have been apart of) is listed within the table below, an asterisk marks projects that are no longer actively being worked on. Links to the corresponding repository are also provided where possible. 
 
-## Tools 
+## Projects 
 | Name | Description | 
 |:--- | :--- |
 | [2B NOR !2B](https://github.com/skirtyman/2BNOR-2B) * | A learning tool for GCSE and A-level Computer Science students to explore and practice their knowledge of logic gates and Boolean algebra according to the AQA specification. |
