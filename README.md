@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/8eec35f3-fd84-49c8-835b-b417c4509a9a.svg)](https://wakatime.com/@8eec35f3-fd84-49c8-835b-b417c4509a9a)
 
-<a href="https://stackoverflow.com/users/14906598/trynfulf"><img src="https://stackoverflow.com/users/flair/14906598.png" width="208" height="58" alt="profile for trynfulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trynfulf at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/14906598/ajmullen"><img src="https://stackoverflow.com/users/flair/14906598.png" width="208" height="58" alt="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ![image](https://projecteuler.net/profile/skirtyman1.png)
 
 I am Andreas J. Mullen, an undergraduate student reading Computer Science and wanting to specialise in compiler theory.
