@@ -17,6 +17,11 @@ My work (and projects that I have been apart of) is listed within the table belo
 | [Vorpal Dice](https://github.com/VorpalBot/Dice-Engine) | A CLI for processing dice commands and rolls in a format compativle with D&D 5e. |
 | [Vorpal](https://github.com/VorpalBot) | A Dicord Bot that enables users to play single-player D&D 5e using the ruleset given within the SRD. |
 
+## Misc
+| Name | Description | 
+|:--- | :--- |
+| [Euler](https://github.com/skirtyman/Euler) | My solutions to the problems on [ProjectEuler.net](https://projecteuler.net/), it also contains code-golfed solutions just for fun. |
+
 <!--
 
 **trynfulf/trynfulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
