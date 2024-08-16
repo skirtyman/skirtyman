@@ -5,7 +5,7 @@
 <a href="https://stackoverflow.com/users/14906598/ajmullen"><img src="https://stackoverflow.com/users/flair/14906598.png" width="208" height="58" alt="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 ![image](https://projecteuler.net/profile/AJMullen.png)
 
-I am Andreas J. Mullen, an undergraduate student reading Computer Science and wanting to specialise in compiler theory.
+I am Andreas J. Mullen, an undergraduate student reading Computer Science and Engineering at the University of Birmingham and wanting to specialise in compiler theory.
 
 My work (and projects that I have been apart of) is listed within the table below, an asterisk marks projects that are no longer actively being worked on. Links to the corresponding repository are also provided where possible. 
 
