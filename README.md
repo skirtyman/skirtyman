@@ -21,6 +21,7 @@ My work (and projects that I have been apart of) is listed within the table belo
 | Name | Description | 
 |:--- | :--- |
 | [Euler](https://github.com/skirtyman/Euler) | My solutions to the problems on [ProjectEuler.net](https://projecteuler.net/), it also contains code-golfed solutions just for fun. |
+| [WikiCount]() | A quick script to collect and plot all of my edits on various Wikipedia articles. Feel free to use for your own account. |
 
 <!--
 
