@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋
 
 [![wakatime](https://wakatime.com/badge/user/8eec35f3-fd84-49c8-835b-b417c4509a9a.svg)](https://wakatime.com/@8eec35f3-fd84-49c8-835b-b417c4509a9a)
 
@@ -7,7 +7,7 @@
 
 I am Andreas J. Mullen, an undergraduate student studying Computer Science and Engineering at the University of Birmingham and wanting to specialise in compiler theory.
 
-My work (and projects that I have been apart of) is listed within the table below, an asterisk marks projects that are no longer actively being worked on. Links to the corresponding repository are also provided where possible. 
+My work (and projects that I have been apart of) is listed within the table below, an asterisk marks projects that are no longer actively being worked on. Links to the corresponding repository are also provided where possible.
 
 ## Projects 
 | Name | Description | 
@@ -21,7 +21,8 @@ My work (and projects that I have been apart of) is listed within the table belo
 | Name | Description | 
 |:--- | :--- |
 | [Euler](https://github.com/skirtyman/Euler) | My solutions to the problems on [ProjectEuler.net](https://projecteuler.net/), it also contains code-golfed solutions just for fun. |
-| [WikiCount](https://github.com/skirtyman/WikiCount) | A quick script to collect and plot all of my edits on various Wikipedia articles. Feel free to use for your own account. |
+| [WikiCount](https://github.com/skirtyman/WikiCount) * | A quick script to collect and plot all of my edits on various Wikipedia articles. Feel free to use for your own account. |
+| [Lox](https://github.com/skirtyman/lox) | My implementation of JLox and CLox from the book [Crafting Interpreters](https://craftinginterpreters.com/). |
 
 <!--
 
