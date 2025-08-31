@@ -1,10 +1,5 @@
 ### Hi there, 👋
 
-[![wakatime](https://wakatime.com/badge/user/8eec35f3-fd84-49c8-835b-b417c4509a9a.svg)](https://wakatime.com/@8eec35f3-fd84-49c8-835b-b417c4509a9a)
-
-<a href="https://stackoverflow.com/users/14906598/ajmullen"><img src="https://stackoverflow.com/users/flair/14906598.png" width="208" height="58" alt="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-![image](https://projecteuler.net/profile/AJMullen.png)
-
 I am Andreas J. Mullen, an undergraduate student studying Computer Science and Engineering at the University of Birmingham and wanting to specialise in compiler theory.
 
 My work (and projects that I have been apart of) is listed within the table below, an asterisk marks projects that are no longer actively being worked on. Links to the corresponding repository are also provided where possible.
@@ -24,6 +19,16 @@ My work (and projects that I have been apart of) is listed within the table belo
 | [WikiCount](https://github.com/skirtyman/WikiCount) * | A quick script to collect and plot all of my edits on various Wikipedia articles. Feel free to use for your own account. |
 | [Lox](https://github.com/skirtyman/lox) | My implementation of JLox and CLox from the book [Crafting Interpreters](https://craftinginterpreters.com/). |
 
+
+<details>
+<summary>This dropdown contains some badges that I like.</summary>
+  
+[![wakatime](https://wakatime.com/badge/user/8eec35f3-fd84-49c8-835b-b417c4509a9a.svg)](https://wakatime.com/@8eec35f3-fd84-49c8-835b-b417c4509a9a)
+
+<a href="https://stackoverflow.com/users/14906598/ajmullen"><img src="https://stackoverflow.com/users/flair/14906598.png" width="208" height="58" alt="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for AJMullen at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+![image](https://projecteuler.net/profile/AJMullen.png)
+
+</details>
 <!--
 
 **trynfulf/trynfulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
